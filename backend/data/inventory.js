@@ -1,4 +1,5 @@
 const stock = {
+  // bottle: "0", proper error is shown
   bottle: "229",
   socks: "342",
   shirt: {
